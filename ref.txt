@@ -1,0 +1,7 @@
+https://medium.com/@rajeev.sharma1804/the-power-of-node-js-and-firebase-real-time-applications-with-email-notifications-62626306499d
+
+*firestore
+https://firestore.googleapis.com/v1/projects/firefly-6c3fa/databases/(default)/documents/mydb
+
+*realtime
+https://firefly-6c3fa-default-rtdb.asia-southeast1.firebasedatabase.app/Data.json
